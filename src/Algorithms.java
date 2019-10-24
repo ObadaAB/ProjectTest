@@ -25,4 +25,8 @@ public class Algorithms
         return 1;
     }
 
+    int fun3()
+    {
+        return 3;
+    }
 }
