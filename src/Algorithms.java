@@ -19,4 +19,10 @@ public class Algorithms
             }
         }
     }
+
+    int fun1()
+    {
+        return 1;
+    }
+
 }
